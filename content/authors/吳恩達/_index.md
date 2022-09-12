@@ -8,7 +8,10 @@ superuser: true
 authors:
   - 吳恩達
 bio: ""
-interests: []
+interests:
+  - Autonomous Voltage Control
+  - Flexibility Aggregation
+  - Deep Reinforcement Learning
 social:
   - display:
       header: false
