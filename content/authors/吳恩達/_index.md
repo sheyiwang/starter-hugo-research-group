@@ -17,13 +17,13 @@ social:
     link: https://scholar.google.com/citations?user=6M2r4fQAAAAJ&hl=en
 education:
   courses:
-    - course: "PhD in Electrical and Electronics Engineering "
+    - course: PhD in EE
       institution: Temple University
       year: 2022
-    - course: "Master in Electrical and Electronics Engineering "
+    - course: Master in EE
       institution: "Clarkson University "
       year: 2017
-    - course: "Bachelor in Electrical and Electronics Engineering "
+    - course: Bachelor in EE
       institution: Shanghai University of Electric Power
       year: 2016
 email: shengyiwang@shu.edu.cn
