@@ -9,7 +9,12 @@ authors:
   - 吳恩達
 bio: ""
 interests: []
-social: []
+social:
+  - display:
+      header: false
+    icon: google-scholar
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=6M2r4fQAAAAJ&hl=en
 education:
   courses:
     - course: PhD in Artificial Intelligence
