@@ -4,7 +4,7 @@ role: Assistant Professor
 avatar_filename: avatar.jpg
 organizations:
   - name: Shanghai University
-superuser: false
+superuser: true
 authors:
   - 吳恩達
 bio: ""
@@ -13,23 +13,22 @@ social:
   - display:
       header: false
     icon: google-scholar
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=6M2r4fQAAAAJ&hl=en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: "PhD in Electrical and Electronics Engineering "
+      institution: Temple University
+      year: 2022
+    - course: "Master in Electrical and Electronics Engineering "
+      institution: "Clarkson University "
+      year: 2017
+    - course: "Bachelor in Electrical and Electronics Engineering "
+      institution: Shanghai University of Electric Power
+      year: 2016
+email: shengyiwang@shu.edu.cn
 user_groups:
   - Researchers
-  - Visitors
 ---
 Shengyi Wang is an assistant professor in EE at Shanghai University. My research interests are focused on AI-based data-driven optimization and control for power systems.
 
