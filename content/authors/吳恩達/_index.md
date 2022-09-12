@@ -1,7 +1,7 @@
 ---
 title: SHENGYI WANG（王圣贻）
 role: Assistant Professor
-avatar_filename: content/authors/吳恩達/img_9034.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Shanghai University
 superuser: false
