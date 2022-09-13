@@ -3,10 +3,7 @@ title: Shengyi Wang（王圣贻）
 role: Assistant Professor
 avatar_filename: avatar.jpg
 bio: ""
-interests:
-  - Autonomous Voltage Control
-  - Power Flexibility Aggregation
-  - Deep Reinforcement Learning
+interests: []
 social:
   - display:
       header: false
