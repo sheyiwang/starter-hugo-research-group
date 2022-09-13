@@ -4,7 +4,7 @@ role: Assistant Professor
 avatar_filename: avatar.jpg
 organizations:
   - name: Shanghai University
-superuser: true
+superuser: false
 authors:
   - 吳恩達
 bio: ""
